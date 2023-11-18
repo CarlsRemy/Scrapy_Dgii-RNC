@@ -3,7 +3,7 @@
 Este repositorio contiene una herramienta de consola desarrollada en C# que realiza web scraping a la página de la Dirección General de Impuestos Internos (DGII) de la República Dominicana. La aplicación permite realizar consultas de Registro Nacional de Contribuyentes (RNC) de manera eficiente y obtener la información asociada.
 
 
-## Características Principales (Ampliado):
+## Características Principales:
 
 - Validación Robusta de RNC: La herramienta realiza una validación rigurosa del parámetro de RNC proporcionado antes de iniciar la consulta a la DGII. La validación incluye:
 
