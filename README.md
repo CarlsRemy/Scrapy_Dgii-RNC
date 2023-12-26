@@ -90,11 +90,12 @@ if ($array !== null && json_last_error() !== JSON_ERROR_NONE) {
 
 
 ## Requisitos:
-
-.NET Core SDK instalado en el entorno de ejecución.
+> .[!IMPORTANT].
+> .NET Core SDK instalado en el entorno de ejecución.
 
 ### Contribuciones:
 ¡Las contribuciones son bienvenidas! Si encuentras mejoras o correcciones, no dudes en hacer un fork y enviar un pull request.
 
 #### **Aviso Legal:**
-Esta aplicación se desarrolla con fines educativos y no se garantiza la precisión ni la disponibilidad continua de la información obtenida de la DGII. Se recomienda utilizar esta herramienta de manera ética y respetar los términos de servicio y limitaciones del sitio web de la DGII.
+> .[!WARNING].
+> Esta aplicación se desarrolla con fines educativos y no se garantiza la precisión ni la disponibilidad continua de la información obtenida de la DGII. Se recomienda utilizar esta herramienta de manera ética y respetar los términos de servicio y limitaciones del sitio web de la DGII.
